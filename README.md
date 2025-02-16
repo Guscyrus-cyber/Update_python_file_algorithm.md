@@ -1,1 +1,3 @@
-# Update_python_file_algorithm.md
+The lab focuses on hands-on practice with Python, covering essential programming concepts such as data structures, control flow, and automation techniques relevant to cybersecurity. Through these exercises, I explored key topics like parsing logs, handling errors, and implementing security-related functions, which are crucial for analyzing threats and securing systems.
+
+By working through these Python labs, I gained practical experience in writing efficient scripts to support cybersecurity operations. The exercises helped reinforce problem-solving skills by applying Python to real-world security scenarios, including data analysis, log monitoring, and automation of security tasks. This repository serves as a reference for my progress and showcases my ability to leverage Python for security-related applications.
